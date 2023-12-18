@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FinalEpicerie/1.0.0": {
+        "dependencies": {
+          "StockLibrary": "1.0.0"
+        },
+        "runtime": {
+          "FinalEpicerie.dll": {}
+        }
+      },
+      "StockLibrary/1.0.0": {
+        "runtime": {
+          "StockLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FinalEpicerie/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StockLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
